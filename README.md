@@ -33,7 +33,6 @@ NAME:KAVIPRIYA SP
 REG NO:2305002011
 ```
 ```
-
 #Solving a Gambler’s Problem using the value iteration algorithm. 
 
 import numpy as np
