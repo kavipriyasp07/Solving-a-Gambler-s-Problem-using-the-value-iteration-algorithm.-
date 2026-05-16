@@ -149,10 +149,7 @@ print(policy)
  
 ## Output
 
-```
 <img width="776" height="536" alt="image" src="https://github.com/user-attachments/assets/6c1df3f7-c886-4175-972d-c9416a1a0be9" />
-
-```
 
 ---
 
